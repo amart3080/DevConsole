@@ -1,0 +1,401 @@
+-Help ~ FileSearch-ALL! GoTo
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+DevConsle Opened 15:26:10.40
+DevConsle Opened 15:43:58.14
+-log Opened
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+DevConsle Opened 15:50:41.46
+-log Opened
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+DevConsle Opened 15:52:41.63
+-log Opened
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+DevConsle Opened 15:53:32.26
+-log Opened
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+DevConsle Opened 15:59:02.90
+-Help! Opened
+-Help ~ FileSearch-ALL! GoTo
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+DevConsle Opened 17:41:49.37
+-log Opened
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+-log Opened
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+-exi Opened
+DevConsle Opened 17:47:20.96
+-cur_stats
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+-exi Opened
+DevConsle Opened 17:47:43.69
+-log Opened
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information` Server; 'FileSearch-ALL' NOT Responsive :error 000: .17:47:52.80 ... Wed 10/20/2021 ...
+-MAINTAINANCE! Closing f
+-exi Opened
+DevConsle Opened 16:02:41.89
+DevConsle Opened 16:14:22.07
+DevConsle Opened 16:14:34.02
+DevConsle Opened 16:14:44.73
+-Help! Opened
+-Help ~ FileSearch-ALL! GoTo
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+-exi Opened
+DevConsle Opened 16:15:12.14
+DevConsle Opened 16:15:45.99
+DevConsle Opened 16:16:09.11
+DevConsle Opened 16:17:39.02
+DevConsle Opened 16:18:50.71
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+-exi Opened
+DevConsle Opened 16:19:18.47
+DevConsle Opened 16:19:56.58
+-admin_pass_conf Opened
+-cur_stats
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+-exi Opened
+DevConsle Opened 16:22:33.50
+-cur_stats
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+-exi Opened
+DevConsle Opened 16:23:25.65
+-cur_stats
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+-admin_pass_conf Opened
+-Help! Opened
+-Help ~ FileSearch-ALL! GoTo
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+-Help! Opened
+-Help ~ FileSearch-ALL! GoTo
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+DevConsle Opened 16:36:39.95
+DevConsle Opened 16:37:03.55
+DevConsle Opened 16:38:09.53
+Testing VAC...
+DevConsle Opened 16:40:04.17
+Testing VAC...
+DevConsle Opened 16:40:42.28
+Testing VAC... 
+DevConsle Opened 16:41:38.38
+Testing VAC... 
+DevConsle Opened 16:42:24.17
+Testing VAC... 
+DevConsle Opened 16:42:52.26
+Testing VAC... 
+DevConsle Opened 16:43:16.94
+Testing VAC... 
+DevConsle Opened 16:43:19.65
+Testing VAC... 
+DevConsle Opened 16:44:59.74
+Testing VAC... 
+DevConsle Opened 16:45:42.20
+Testing VAC... 
+DevConsle Opened 16:45:47.75
+Testing VAC... 
+DevConsle Opened 16:46:00.54
+Testing VAC... 
+DevConsle Opened 16:46:02.49
+Testing VAC... 
+DevConsle Opened 16:46:04.24
+Testing VAC... 
+DevConsle Opened 16:48:46.46
+'VAC-DevConsole.bat' Detected! 
+'VAC-DevConsole.bat' Detected! 
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+'VAC-DevConsole.bat' Detected! 
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+'VAC-DevConsole.bat' Detected! 
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+'VAC-DevConsole.bat' Detected! 
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+'VAC-DevConsole.bat' Detected! 
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+'VAC-DevConsole.bat' Detected! 
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+'VAC-DevConsole.bat' Detected! 
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+'VAC-DevConsole.bat' Detected! 
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+'VAC-DevConsole.bat' Detected! 
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+'VAC-DevConsole.bat' Detected! 
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+'VAC-DevConsole.bat' Detected! 
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+'VAC-DevConsole.bat' Detected! 
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+'VAC-DevConsole.bat' Detected! 
+DevConsle Opened 16:51:09.25
+DevConsle Opened 16:51:32.45
+DevConsle Opened 16:51:40.07
+DevConsle Opened 16:51:47.14
+DevConsle Opened 16:52:03.85
+DevConsle Opened 16:52:14.28
+DevConsle Opened 16:52:36.49
+DevConsle Opened 16:53:40.46
+DevConsle Opened 16:54:49.81
+DevConsle Opened 16:55:40.95
+DevConsle Opened 16:57:23.25
+DevConsle Opened 17:02:03.65
+DevConsle Opened 17:02:17.89
+DevConsle Opened 17:03:02.28
+DevConsle Opened 17:04:08.02
+DevConsle Opened 17:05:20.02
+DevConsle Opened 17:07:35.12
+DevConsle Opened 17:08:19.51
+DevConsle Opened 17:09:30.43
+DevConsle Opened 17:10:49.92
+DevConsle Opened 17:11:10.26
+DevConsle Opened 17:14:03.39
+DevConsle Opened 17:15:14.28
+DevConsle Opened 17:15:54.81
+DevConsle Opened 17:16:04.47
+DevConsle Opened 17:16:09.10
+DevConsle Opened 17:17:12.95
+DevConsle Opened 17:17:27.76
+DevConsle Opened 17:17:49.14
+DevConsle Opened 17:18:04.91
+DevConsle Opened 17:18:46.96
+DevConsle Opened 17:18:58.55
+DevConsle Opened 17:19:13.34
+DevConsle Opened 17:19:42.56
+DevConsle Opened 17:20:04.68
+DevConsle Opened 17:20:18.75
+DevConsle Opened 17:21:40.80
+DevConsle Opened 17:22:39.37
+DevConsle Opened 17:23:03.99
+DevConsle Opened 17:23:24.14
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+-pers_locker Opened
+DevConsle Opened 17:25:19.24
+'VAC-DevConsole.bat' Detected! 
+DevConsle Opened 17:25:51.42
+DevConsle Opened 17:26:35.04
+DevConsle Opened 15:34:05.44
+DevConsle Opened 15:35:40.19
+DevConsle Opened 15:37:51.14
+-close_all Opened
+DevConsle Opened 15:39:35.82
+DevConsle Opened 15:39:44.01
+DevConsle Opened 15:39:53.81
+DevConsle Opened 15:42:09.91
+DevConsle Opened 15:42:57.77
+DevConsle Opened 15:43:16.91
+DevConsle Opened 15:43:23.73
+DevConsle Opened 15:44:03.59
+DevConsle Opened 15:46:10.23
+DevConsle Opened 15:46:35.24
+DevConsle Opened 15:46:40.18
+DevConsle Opened 15:53:43.33
+DevConsle Opened 15:55:02.61
+DevConsle Opened 15:55:42.66
+DevConsle Opened 15:56:29.81
+DevConsle Opened 15:57:31.01
+DevConsle Opened 15:58:07.17
+DevConsle Opened 16:03:30.51
+DevConsle Opened 16:03:59.70
+DevConsle Opened 16:07:08.62
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+DevConsle Opened 16:10:17.76
+DevConsle Opened 16:38:29.53
+DevConsle Opened 16:38:40.93
+DevConsle Opened 16:39:05.20
+DevConsle Opened 16:40:24.13
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 16:48:54.06
+DevConsle Opened 16:48:58.81
+DevConsle Opened 16:49:02.88
+DevConsle Opened 16:49:13.10
+DevConsle Opened 16:49:18.33
+DevConsle Opened 16:57:28.88
+DevConsle Opened 15:28:00.21
+DevConsle Opened 16:02:11.46
+DevConsle Opened 16:02:45.78
+DevConsle Opened 16:17:28.18
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 16:18:55.54
+DevConsle Opened 16:21:17.57
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 16:27:51.93
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 16:31:34.39
+DevConsle Opened 16:31:43.24
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 16:33:38.95
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 16:35:09.81
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 16:40:03.55
+DevConsle Opened 16:40:47.39
+DevConsle Opened 16:40:57.33
+DevConsle Opened 16:41:10.85
+DevConsle Opened 16:42:52.12
+VAC - DevConsole Blocked 
+DevConsle Opened 16:44:37.19
+VAC - DevConsole Blocked 
+DevConsle Opened 16:46:24.91
+DevConsle Opened 16:46:32.70
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 17:10:13.60
+DevConsle Opened 15:48:07.95
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 15:51:38.22
+DevConsle Opened 15:53:17.87
+DevConsle Opened 15:54:33.06
+VAC - DevConsole Blocked 
+DevConsle Opened 15:54:41.09
+DevConsle Opened 15:55:24.94
+DevConsle Opened 15:36:14.81
+DevConsle Opened 15:36:21.11
+VAC - DevConsole Blocked 
+DevConsle Opened 15:36:31.91
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 15:40:38.49
+VAC - DevConsole Blocked 
+DevConsle Opened 15:43:48.41
+DevConsle Opened 12:01:09.74
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+-Help! Opened
+-Help ~ FileSearch-ALL! GoTo
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+DevConsle Opened 17:41:25.34
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 18:09:49.82
+DevConsle Opened 18:10:14.89
+DevConsle Opened 18:10:24.36
+DevConsle Opened 18:10:33.35
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 15:35:31.56
+DevConsle Opened 20:08:14.88
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 15:28:37.55
+DevConsle Opened 15:28:49.09
+VAC - DevConsole Blocked 
+DevConsle Opened 15:29:17.38
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 15:31:15.21
+-Help! Opened
+-Help ~ FileSearch-ALL! GoTo
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+DevConsle Opened 15:36:09.73
+-admin_pass_conf Opened
+-pass=true. 
+-admin_pass_overpass Opened
+-admin_pass Opened
+DevConsle Opened 15:37:27.75
+DevConsle Opened 15:37:40.72
