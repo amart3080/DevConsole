@@ -2,7 +2,8 @@
 BETA version of DevConsole
 
 <Custom-Input Commands>
-  :: help
+  >>> help
+  
   ================Console=================
  help ; List of all commands
  close_all ; Close all .bat applications.
@@ -14,9 +15,11 @@ BETA version of DevConsole
  cur_time ; The current time.
  cur_stats ; All APP- (.bat) stats.
  auto_userID ; Automated User List
+ 
  ================Personal================
  pers_config ; Console Settings
  pers_locker ; Personal password protected locker.
+  
  ==================FTC===================
  c.t.run ; Runs FTC Program.
  c.t.open ; Opens FTC 'Java' Folder.
