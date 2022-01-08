@@ -22,7 +22,7 @@ start VAC-DevConsole.bat
 color 03
 title DevConsole BETA 
 ECHO =DevConsle=
-ECHO  BETA 1.2.12 Input Command:
+ECHO  BETA 1.2.13 Input Command:
 
 ::Input Console Commands 
 set /p input= [%time%] : 
@@ -920,7 +920,7 @@ pause
 echo -MAINTAINANCE! Opened>> log.txt
 ECHO Oops! The system could not determine the code given. Please give this information to support or troubleshoot your system! 
 echo -MAINTAINANCE! Loaded information`>> log.txt
-ECHO LATEST VERSION: 1.2.2.
+ECHO LATEST VERSION: 1.2.13
 ECHO Server; 'FileSearch-ALL' NOT Responsive :error 000: .%time% ... %date% ... 
 pause
 echo -MAINTAINANCE! Closing f>> log.txt
