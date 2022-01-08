@@ -7,6 +7,7 @@ color 06
 ECHO Launching...
 timeout 0.5
 cls
+mode con:cols=90 lines=30
 goto VAC
 
 :VAC
@@ -28,7 +29,7 @@ set /p input= [%time%] :
 
 if %input%==help goto help
 if %input%==close_all goto close_all
-if %input%==admin_pass goto admin_pass_conf
+if %input%==admin_pass goto admin_pass
 if %input%==admin_info goto admin_info
 if %input%==portal goto portal
 if %input%==restart_app goto restart_app
@@ -48,7 +49,7 @@ if %input%==update_search-1.2.8 goto update_search-1.2.8
 if %input%==auto_userID goto auto_update_user_list
 echo Invalid choice.
 
-goto CONFIRM
+goto start
 
 
 ::Command Functions
@@ -125,151 +126,9 @@ if %cho%==t goto start
 echo Invalid choice.
 goto CONFIRM
 
-:admin_pass_conf
-color 08
-echo -admin_pass_conf Opened>> log.txt
-ECHO 1: REGISTER
-ECHO 2: LOGIN
-echo.
-echo.
-echo Server; 'REGISTER' NOT ACTIVE :error 308:
-set/p "cho=>"
-
-if %cho%==1 goto a
-if %cho%==2 goto b
-if %cho%==20111430806221 goto admin_pass_overpass
-
-if %cho%==t goto start
-
-echo Invalid choice.
-goto CONFIRM
-
-:admin_pass_overpass
-echo -pass=true. >> log.txt
-echo -admin_pass_overpass Opened>> log.txt
-cls
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-ECHO overloading conf
-color 04
-title error
-echo Directory Overload!
-echo Admin Key Required: 
-set/p "cho=>"
-if %cho%==6221 goto admin_pass
-if %cho%==t goto start
-
-echo Invalid choice.
-goto CONFIRM
-
-timeout 15
-exit
 :admin_pass
+goto DeveloperNumber1
+:admin_pass1
 echo -admin_pass Opened>> log.txt
 cls
 ECHO ======Admin Portal======
@@ -494,7 +353,63 @@ echo Invalid choice.
 goto CONFIRM
 
 :log1
+goto DeveloperNumber
+:log2
 cls
+echo Loading.
+ping localhost -n 2 >nul
+cls
+echo Loading..
+ping localhost -n 2 >nul
+cls
+echo Loading...
+ping localhost -n 2 >nul
+cls
+echo Loading....
+ping localhost -n 2 >nul
+cls
+echo Loading.....
+ping localhost -n 2 >nul
+ping localhost -n 2 >nul
+color 0a
+
+ECHO Sending Server ID
+ping localhost -n 2 >nul
+ping localhost -n 2 >nul
+ipconfig
+ECHO Accesing Server IP...
+echo Loading.
+ping localhost -n 2 >nul
+cls
+echo Loading..
+ping localhost -n 2 >nul
+cls
+echo Loading...
+ping localhost -n 2 >nul
+cls
+echo Loading....
+ping localhost -n 2 >nul
+cls
+echo Loading.....
+ping localhost -n 2 >nul
+echo Uploading...
+ping localhost -n 9 >nul
+echo SERVER UPDATE COMPLETED!
+driverquery /FO List 
+ping localhost -n 2 >nul
+echo APA...
+ping localhost -n 1 >nul
+echo Alocating Data
+ping localhost -n 1 >nul
+echo VP Deactivated
+ping localhost -n 1 >nul
+cls
+arp -a
+echo Finished! 
+pause
+cls
+goto start
+
 ECHO Loading 'log.txt'
 start log.txt
 echo ]
@@ -766,6 +681,67 @@ goto CONFIRM
 
 ::Special Atrributes
 
+::THIS IS FOR log1
+:DeveloperNumber
+set /p input= Developer Num. : 
+
+if %input%==308 goto DN_308
+if %input%==1 goto DN_1
+if %input%==2 goto DN_2
+if %input%==3 goto DN_3
+if %input%==4 goto DN_4
+
+:DN_308
+set /p input= Developer ID   :
+if %input%==9628 goto log2
+:DN_1
+set /p input= Developer ID   :
+if %input%==3855 goto log2
+:DN_2
+set /p input= Developer ID   :
+if %input%==3235 goto log2
+:DN_3
+set /p input= Developer ID   :
+if %input%==3726 goto log2
+:DN_4
+set /p input= Developer ID   :
+if %input%==8005 goto log2
+
+::THIS IS FOR admin_pass
+:DeveloperNumber1
+set /p input= Developer Num. : 
+
+if %input%==308 goto DN1_308
+if %input%==1 goto DN1_1
+if %input%==2 goto DN1_2
+if %input%==3 goto DN1_3
+if %input%==4 goto DN1_4
+
+:DN1_308
+set /p input= Developer ID   :
+if %input%==9628 goto admin_pass1
+:DN1_1
+set /p input= Developer ID   :
+if %input%==3855 goto admin_pass1
+:DN1_2
+set /p input= Developer ID   :
+if %input%==3235 goto admin_pass1
+:DN1_3
+set /p input= Developer ID   :
+if %input%==3726 goto admin_pass1
+:DN1_4
+set /p input= Developer ID   :
+if %input%==8005 goto admin_pass1
+
+
+
+
+
+
+
+
+
+
 :a
 set /p a="Choose a Username"
 set /p b="Choose a Password"
@@ -838,6 +814,7 @@ ECHO UPDATE LOGS
 ECHO ]
 ECHO ]
 ECHO ]
+ECHO 1.2.13 ; Developer Log-In. Server IP/Network API update 'log1'.
 ECHO 1.2.12 ; Added 'log', 'log1', 'pers_config','pers_locker'. Mainitance on 'pers_config'.
 ECHO 1.2.11 ; 'Log.txt' developed. Mainitance on 'FileSearch-ALL'.
 ECHO 1.2.10 ; Mainitance on 'update_search-1.2.8' 
